@@ -17,4 +17,6 @@ Solutions to some of the exercises in the "LeetCode" website using Python.
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1464.py) |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1480.py) |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1672.py) |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/53.py) |
+
 
