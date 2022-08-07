@@ -1,5 +1,4 @@
 # LeetCode-Solutions
-
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -7,10 +6,14 @@
 Solutions to some of the exercises in the "LeetCode" website using Python.
 
 
-## List of problems-solutions
+## My stats
 
+[![erfanghorbanee's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=erfanghorbanee&theme=dark)](https://leetcode.com/erfanghorbanee/)
+
+
+## List of problems-solutions
 | Title | Solution |
-| ----- | ----- |
+| ----- | :-----: |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/283.py) |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/412.py) |
 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1342.py) |
