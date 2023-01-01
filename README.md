@@ -15,6 +15,7 @@ Solutions to some of the exercises in the "LeetCode" website using Python.
 | Title | Solution |
 | ----- | :-----: |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1.py) |
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/9.py) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/53.py) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/283.py) |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/412.py) |
