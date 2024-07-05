@@ -1,17 +1,17 @@
 # LeetCode-Solutions
+
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Solutions to some of the exercises in the "LeetCode" website using Python.
 
-
 ## My stats
 
 [![erfanghorbanee's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=erfanghorbanee&theme=dark)](https://leetcode.com/erfanghorbanee/)
 
-
 ## List of problems-solutions
+
 | Title | Solution |
 | ----- | :-----: |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1.py) |
@@ -25,5 +25,3 @@ Solutions to some of the exercises in the "LeetCode" website using Python.
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1464.py) |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1480.py) |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1672.py) |
-
-
