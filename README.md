@@ -18,6 +18,7 @@ Solutions to some of the exercises in the "LeetCode" website using Python.
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/9.py) |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/13.py) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/53.py) |
+| [69. Sqrt(x)](https://leetcode.com/problems/Sqrt(x)/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/69.py) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/283.py) |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/412.py) |
 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |[link](https://github.com/erfanghorbanee/LeetCode-Solutions/blob/main/Solutions/1342.py) |
