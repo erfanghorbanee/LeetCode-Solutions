@@ -4,13 +4,13 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Solutions to some of the exercises in the "LeetCode" website using Python.
+Solutions to some of the exercises on the "LeetCode" website using Python.
 
 ## My stats
 
-[![erfanghorbanee's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=erfanghorbanee&theme=dark)](https://leetcode.com/erfanghorbanee/)
+My LeetCode [Profile](https://leetcode.com/erfanghorbanee/)
 
-## List of problems-solutions
+## List of solved problems
 
 | Title | Solution |
 | ----- | :-----: |
