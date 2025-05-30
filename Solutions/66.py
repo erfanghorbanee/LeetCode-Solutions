@@ -1,4 +1,3 @@
-
 class Solution(object):
     def plusOne(self, digits):
         """
